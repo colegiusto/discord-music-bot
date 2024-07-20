@@ -1,0 +1,12 @@
+This is the manual page for the ColeBot music player.
+
+Commands:
+!man:       Bring up this page
+
+!join:      bot joins current voice channel
+
+!dc:        bot disconnects from voice channel
+
+!search:    Searches YouTube and plays the audio of the first result. 
+            Provide False as the second parameter to show the first result without playing it.
+
